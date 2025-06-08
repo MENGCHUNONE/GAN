@@ -1,0 +1,2 @@
+FinalTest.rar filter=lfs diff=lfs merge=lfs -text
+visual[[:space:]]stdio[[:space:]]2022 filter=lfs diff=lfs merge=lfs -text
